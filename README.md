@@ -4,6 +4,12 @@
 
 # Angular 2 vs Angular 1
 
+## Objectives
+*By the end of this lesson, developers will be able to:*
+
+- **Describe** the major improvements between Angular 1 and Angular 2
+- **Describe** some of the most important syntax changes between Angular 1 and Angular 2
+
 ## A little history
 
 Angular 2 was a highly anticipated release.  When it came out on September 15, 2016 a lot of developers, many of whom were already using Angular 2 in a Beta- or Release-Candidate-version, let out a resounding "finally!"  Almost exactly two years after development was announced, front-end developers finally had a stable enough version to bring Angular 2 to their production apps.  Why were they so excited?

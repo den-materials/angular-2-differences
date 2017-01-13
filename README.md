@@ -1,3 +1,5 @@
+<!--Actually 2:14 -->
+
 <!--Hook: So now you know Angular 1.x pretty well, well enough to build a full-stack Single Page App with it.  Lots of dev shops now are switching to Angular 2, though, so you'll want to get some exposure to it.  If you are looking at jobs now that require Angular 2, I highly encourage you to take this brief introduction to the next level.  You should probably choose one of the topics below for your lightning talk in Unit 4, and try to use Angular 2 in your Project 4.  -->
 
 <!--1:30 15 minutes -->
@@ -39,11 +41,15 @@ Angular 2 was designed with mobile development in mind.  There are two tools in 
 
 There are lots of other exciting features in Angular 2, like `$scope`less data binding, better form building and validation, and improved dependency injection, to name a few.  I highly encourage you to [get started](https://angular.io/docs/ts/latest/quickstart.html) with some of the tutorials and sample projects from the Angular team if you are looking to join an Angular 2 team.
 
+<!--Actually 2:22 -->
+
 <!--1:45 15 minutes -->
 
 ## The Code
 
 I know what you're thinking.  "Wait, this class is called 'Web Development Immersive' not 'Web Talking Immersive', what does the code look like?"  Excellent question, let's take a look at [the major differences in the code](https://angular.io/docs/ts/latest/cookbook/a1-a2-quick-reference.html), and let that drive the refactoring lab we will do next.
+
+<!--Actually 2:40 -->
 
 ## Resources
 

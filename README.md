@@ -24,7 +24,7 @@ Components play a really big part in React development as well, which we will ge
 
 ## TypeScript
 
-As mentioned earlier, TypeScript brings all of the modern functionaly of ES6 into Angular 2.  In addition, it provides powerful error checking and ensures code integrity through the use of types, classes, and more.
+As mentioned earlier, TypeScript brings all of the modern functionality of ES6 into Angular 2.  In addition, it provides powerful error checking and ensures code integrity through the use of types, classes, and more.
 
 ## Performance Improvements
 

@@ -40,7 +40,7 @@ Angular 2 was designed with mobile development in mind.  There are two tools in 
 
 ## Much More
 
-There are lots of other exciting features in Angular 2, like `$scope`less data binding, better form building and validation, and improved dependency injection, to name a few.  I highly encourage you to [get started](https://angular.io/docs/ts/latest/quickstart.html) with some of the tutorials and sample projects from the Angular team if you are looking to join an Angular 2 team.
+There are lots of other exciting features in Angular 2, like `$scope`less data binding, better form building and validation, and improved dependency injection, to name a few.  I highly encourage you to run through the Angular [quickstart tutorial](https://angular.io/docs/ts/latest/quickstart.html) if you haven't already, and pick up some tutorials and sample projects from the Angular team if you are looking to join an Angular 2 team.
 
 <!--Actually 2:22 -->
 

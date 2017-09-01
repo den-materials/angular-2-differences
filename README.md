@@ -5,6 +5,8 @@
 <!--WDI3 11:01 -->
 <!--1:30 15 minutes -->
 
+<!--WDI4 9:04 -->
+
 # Angular 2 vs Angular 1
 
 ## Objectives
@@ -51,6 +53,7 @@ There are lots of other exciting features in Angular 2, like `$scope`less data b
 
 I know what you're thinking.  "Wait, this class is called 'Web Development Immersive' not 'Web Talking Immersive', what does the code look like?"  Excellent question, let's take a look at [the major differences in the code](https://angular.io/docs/ts/latest/cookbook/a1-a2-quick-reference.html), and let that drive the refactoring lab we will do next.
 
+<!--WDI4 9:15, coming back 9:20 to talk, 9:24 done -->
 <!--11:26 WDI3 -->
 <!--Actually 2:40 -->
 

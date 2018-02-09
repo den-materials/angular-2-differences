@@ -2,6 +2,7 @@
 
 <!--Hook: So now you know Angular 2+ pretty well, well enough to build a full-stack Single Page App with it.  Lots of dev shops now are switching from Angular 1.x, though, so you'll want to get some exposure to it.  If you are looking at jobs now that require Angular 2+, I highly encourage you to take this brief introduction to the next level.  You should probably choose Angular 1 or an Angular topic for your lightning talk in Unit 4, and try to use Angular 4 in your Project 4.  -->
 
+<!--WDI6 9:12 -->
 <!--WDI3 11:01 -->
 <!--1:30 15 minutes -->
 
@@ -56,6 +57,7 @@ I know what you're thinking.  "Wait, this class is called 'Web Development Immer
 <!--WDI4 9:15, coming back 9:20 to talk, 9:24 done -->
 <!--11:26 WDI3 -->
 <!--Actually 2:40 -->
+<!--WDI6, turning over to devs 9:21, coming back 9:30 -->
 
 ## Resources
 
